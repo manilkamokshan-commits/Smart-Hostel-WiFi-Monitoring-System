@@ -22,7 +22,7 @@ This repository contains Cisco Packet Tracer networking projects created while l
 
 ## Screenshot
 
-![Network Topology](screenshots/screenshottopology.png)
+![Network Topology](screen%20shots/screen%20shotstopology.png)
 
 ## Author
 
