@@ -1,2 +1,29 @@
-# Smart-Hostel-WiFi-Monitoring-System
-A web-based hostel WiFi monitoring dashboard built using HTML, CSS, JavaScript and Cisco Packet Tracer.
+# CCNA Packet Tracer Labs
+
+## Project Overview
+
+This repository contains Cisco Packet Tracer networking projects created while learning CCNA networking concepts.
+
+## Technologies
+
+- Cisco Packet Tracer
+- Cisco IOS CLI
+- Networking Fundamentals
+
+## Configurations
+
+- IP Addressing
+- Subnetting
+- Router Configuration
+- Switch Configuration
+- VLAN Configuration
+- DHCP Configuration
+- Network Troubleshooting
+
+## Screenshot
+
+![Network Topology](screenshots/screenshottopology.png)
+
+## Author
+
+Manilka Mokshan
