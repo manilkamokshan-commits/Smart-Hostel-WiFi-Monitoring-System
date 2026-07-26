@@ -24,7 +24,7 @@ This repository contains Cisco Packet Tracer networking projects created while l
 
 ![Network Topology](screenshots/topology.png)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 
 ## Author
